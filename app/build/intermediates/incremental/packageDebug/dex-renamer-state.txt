@@ -1,0 +1,7 @@
+#Mon Aug 07 09:38:59 CLT 2017
+base.0=C\:\\Users\\Yerco_M_ (Android)\\Desktop\\ocr-reader\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_b00b38fb59d4120068926705ec16dc31cdc27e37
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\Yerco_M_ (Android)\\Desktop\\ocr-reader\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_ad909bc4a531bc0d9c5ccde2f8600de9614cc22c\\classes.dex
+base.1=C\:\\Users\\Yerco_M_ (Android)\\Desktop\\ocr-reader\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_ad909bc4a531bc0d9c5ccde2f8600de9614cc22c
+file.0=C\:\\Users\\Yerco_M_ (Android)\\Desktop\\ocr-reader\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_b00b38fb59d4120068926705ec16dc31cdc27e37\\classes.dex

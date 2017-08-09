@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Yerco_M_ (Android)\.android\build-cache\8159ca16bc713b9ab84a0b53d1e74c1a61a18427\output\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="C:\Users\Yerco_M_ (Android)\Desktop\ocr-reader\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_936546ea3d76687d9f4b79d969b249db589f69f1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Yerco_M_ (Android)\.android\build-cache\884396f8190001de04cfc04fa3d749b2babf9a9f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8a36d229011e75f0caef408e1adf0d3fd4d94e02">
+        <dex dex="C:\Users\Yerco_M_ (Android)\Desktop\ocr-reader\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_07316507ba11fe5546a085eb6a6bb81ce8472be8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Yerco_M_ (Android)\.android\build-cache\6ee0175e6649097e1c5505c91a9a8d7122b6cda3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="C:\Users\Yerco_M_ (Android)\Desktop\ocr-reader\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d5d0a34df6f7914cc870589f1ac632f25768064f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Yerco_M_ (Android)\.android\build-cache\09a169247722a7be31ee475506203de9e2db11c8\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="C:\Users\Yerco_M_ (Android)\Desktop\ocr-reader\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_03bbab83cbb1af797bdd15dab3b2230be105669d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Yerco_M_ (Android)\.android\build-cache\6204a389184535afd410c3347a753250bd74a2da\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c755536e5a100d9c76c8ea0b72f76c018f7a9de2">
+        <dex dex="C:\Users\Yerco_M_ (Android)\Desktop\ocr-reader\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c060183c1663c75eb5847201824d2a542086ca49\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Yerco_M_ (Android)\.android\build-cache\1836cbbd11eb0272d1a437bf3cb4ccd47f939fee\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3dee4ce5844d39d843d503fb8fe04e51e5bfffac">
+        <dex dex="C:\Users\Yerco_M_ (Android)\Desktop\ocr-reader\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5560ffc49aade024d7f66a319ab9384d6f230191\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Yerco_M_ (Android)\.android\build-cache\12556bc36ce89547704e10a98bcc494e6f855e92\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="670df81539ab71918d49b186598b7eff08ef6563">
+        <dex dex="C:\Users\Yerco_M_ (Android)\Desktop\ocr-reader\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c7ce30527f7370d38842851ab33318faa6d02eab\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Program Files (x86)\Android\android-sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.0\support-annotations-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="C:\Users\Yerco_M_ (Android)\Desktop\ocr-reader\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.0_f4228c1b901908a346c9ee83e23954a04b92a0ad\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Yerco_M_ (Android)\.android\build-cache\09a169247722a7be31ee475506203de9e2db11c8\output\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="C:\Users\Yerco_M_ (Android)\Desktop\ocr-reader\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_d54256200d1fa238c90047768bf188cda148252d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Yerco_M_ (Android)\.android\build-cache\eb2399e0d09d5373085ce54eb6d7a1159cce66eb\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="23eb0d2998a782213b56168cbf23a0688b9111d9">
+        <dex dex="C:\Users\Yerco_M_ (Android)\Desktop\ocr-reader\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e7f2898f9a6a2bdfaf83d528002eef9fbfd78bfc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Yerco_M_ (Android)\.android\build-cache\8159ca16bc713b9ab84a0b53d1e74c1a61a18427\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="C:\Users\Yerco_M_ (Android)\Desktop\ocr-reader\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_95b3c424508c30de3f0ee2d2fdc5b7822c6cbef3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Yerco_M_ (Android)\Desktop\ocr-reader\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e88a25e4b95112440589d60eb711f2ed31a1f6da">
+        <dex dex="C:\Users\Yerco_M_ (Android)\Desktop\ocr-reader\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_ad909bc4a531bc0d9c5ccde2f8600de9614cc22c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Yerco_M_ (Android)\.android\build-cache\beec87b997a755e1b7c774e0c44e991e1d71a68c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="C:\Users\Yerco_M_ (Android)\Desktop\ocr-reader\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_89f4cc22df8aa53d4a4d4afcf37148b3a4f6d502\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Yerco_M_ (Android)\.android\build-cache\5832f115734989df7bf6307416591aab0e57db56\output\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="C:\Users\Yerco_M_ (Android)\Desktop\ocr-reader\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_64385a7a599f3bb9323cc8b4f179bde7262980a6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Yerco_M_ (Android)\.android\build-cache\86dca2cf90d5e1fadaf3cb59c9100ad7c7925655\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="618485fef3ebe12127f7622abbc9b5b39057b5c2">
+        <dex dex="C:\Users\Yerco_M_ (Android)\Desktop\ocr-reader\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7c00c64d39b7a684a68c9ba283f1181ed81811f6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Yerco_M_ (Android)\Desktop\ocr-reader\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\Yerco_M_ (Android)\Desktop\ocr-reader\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_b00b38fb59d4120068926705ec16dc31cdc27e37\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Yerco_M_ (Android)\.android\build-cache\c36f4b3ed4fac81304fec27541ecc96559dc8461\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="C:\Users\Yerco_M_ (Android)\Desktop\ocr-reader\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ec4e146f0d7d69e2e971c5cdcf16a2a1cc2b8f2e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Yerco_M_ (Android)\.android\build-cache\f20afe4641d6fcd9b08c08a2bbbb397256c307f7\output\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="C:\Users\Yerco_M_ (Android)\Desktop\ocr-reader\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_dac32fb55c8dc054fec360592aaacf5ae55bd2f0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Yerco_M_ (Android)\.android\build-cache\5832f115734989df7bf6307416591aab0e57db56\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="C:\Users\Yerco_M_ (Android)\Desktop\ocr-reader\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d960021aabfc977e19589fe55c305696d36ac38c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Yerco_M_ (Android)\.android\build-cache\f1a0cc5597fb53fdd87022bc1ad696472ddc995e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="C:\Users\Yerco_M_ (Android)\Desktop\ocr-reader\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_68f7c2258404add05bab4d03d233cc84f9c4160e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Yerco_M_ (Android)\.android\build-cache\9c5030807dca5f01438d4378ec189f454c27d9e4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="C:\Users\Yerco_M_ (Android)\Desktop\ocr-reader\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_caa44e24d9fcee423c9293c69a5049d9a89bed1a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Yerco_M_ (Android)\.android\build-cache\f20afe4641d6fcd9b08c08a2bbbb397256c307f7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="C:\Users\Yerco_M_ (Android)\Desktop\ocr-reader\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b7d345d8839e23eea4a76078807afdc33b6ce69c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Yerco_M_ (Android)\.android\build-cache\9c5030807dca5f01438d4378ec189f454c27d9e4\output\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="C:\Users\Yerco_M_ (Android)\Desktop\ocr-reader\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_06b3f0f0a8faadf246770f8d67796376c447d178\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Program Files (x86)\Android\android-sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.0\support-annotations-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="C:\Users\Yerco_M_ (Android)\Desktop\ocr-reader\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.0_f4228c1b901908a346c9ee83e23954a04b92a0ad\classes.dex" />
+    </item>
+
+</items>

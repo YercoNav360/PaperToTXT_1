@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ok">OK</string>
+    <string name="permission_camera_rationale">El acceso a la cámara es necesario para la detección</string>
+    <string name="no_camera_permission">Esta aplicación no se puede ejecutar porque no tiene el permiso de cámara. La aplicación se cerrará ahora.</string>
+    <string name="low_storage_error">Las dependencias de Ocr no se pueden descargar debido al almacenamiento bajo del dispositivo</string>
+    <string name="title_activity_main">PaperToText</string>
+    <string name="ocr_header">Haz click para detectar el texto</string>
+    <string name="read_text">Detectar Texto</string>
+    <string name="auto_focus">Usar Auto Focus</string>
+    <string name="use_flash">Usar Flash</string>
+    <string name="ocr_success">Texto leído con éxito</string>
+    <string name="ocr_failure">No se capturó texto</string>
+    <string name="ocr_error">"Error al leer el texto: %1$s"</string>}
+    <string name="save_text">Guardar el texto</string>
+
+</resources>
